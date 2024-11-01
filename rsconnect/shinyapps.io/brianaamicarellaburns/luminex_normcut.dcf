@@ -1,0 +1,13 @@
+name: luminex_normcut
+title: Luminex_NormCut
+username: brianaamicarellaburns
+account: brianaamicarellaburns
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13015757
+bundleId: 9303006
+url: https://brianaamicarellaburns.shinyapps.io/luminex_normcut/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Oldies/app_cluster.R|Oldies/app_norm1.R|Oldies/app_upload.R
